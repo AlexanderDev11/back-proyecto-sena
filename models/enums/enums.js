@@ -1,0 +1,54 @@
+/* enum Enum_Rol {
+  ADMINISTRADOR = "ADMINISTRADOR",
+  PROVEEDOR = "PROVEEDOR",
+  CLIENTE = "CLIENTE",
+}
+
+enum Enum_EstadoUsuario {
+  PENDIENTE = "PENDIENTE",
+  AUTORIZADO = "AUTORIZADO",
+  NO_AUTORIZADO = " NO_AUTORIZADO",
+}
+
+enum Enum_EstadoCultivo {
+  DISPONIBLE = "DISPONIBLE",
+  NO_DISPONIBLE = "NO_DISPONIBLE",
+}
+
+enum Enum_TipoPlanta {
+  CANNABIS_SATIVA = "CANNABIS_SATIVA",
+  CANNABIS_INDICA = "CANNABIS_INDICA",
+  CANNABIS_RUDERALIS = "CANNABIS_RUDERALIS",
+  HIBRIDO = "HIBRIDO",
+  CANAMO = "CANAMO",
+}
+
+enum Enum_TipoCultivo {
+  INTERIOR = "INTERIOR",
+  EXTERIOR = "EXTERIOR",
+  INVERNADERO = "INVERNADERO",
+}
+
+enum Enum_Licencia {
+  NINGUNA = "NINGUNA",
+  SEMILLAS_CULTIVO = "SEMILLAS_CULTIVO",
+  CULTIVO_PSICOACTIVO = "CULTIVO_PSICOACTIVO",
+  CULTIVO_NO_PSICOACTIVO = "CULTIVO_NO_PSICOACTIVO",
+  PRODUCTO_DERIVADO = "PRODUCTO_DERIVADO",
+}
+
+enum Enum_EstadoCliente {
+  ACTIVO = "ACTIVO",
+  INACTIVO = "INACTIVO",
+}
+
+export {
+  Enum_Rol,
+  Enum_EstadoUsuario,
+  Enum_EstadoCultivo,
+  Enum_Licencia,
+  Enum_TipoCultivo,
+  Enum_TipoPlanta,
+  Enum_EstadoCliente,
+};
+ */
